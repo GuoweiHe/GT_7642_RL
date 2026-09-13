@@ -1,0 +1,9 @@
+__pycache__
+.ipynb_checkpoints
+*/__pycache__
+.ipynb
+ruff.toml
+ty.toml
+.vscode/settings.json
+.DS_Store
+.venv

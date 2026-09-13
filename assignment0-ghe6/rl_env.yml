@@ -1,0 +1,15 @@
+name: rl_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.12
+  - pip
+  - pip:
+      - numpy==1.26.0
+      - scipy==1.11.2
+      - gymnasium==0.29.1
+      - pygame==2.5.2
+      - jupyter==1.1.1
+      - debugpy==1.8.20
+      - ipywidgets==8.1.8
